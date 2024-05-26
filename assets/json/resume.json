@@ -30,9 +30,11 @@
       "startDate": "2013",
       "endDate": "",
       "summary": "Co-founded a startup company during secondary school with several of my schoolmates developing apps for the school, which later expanded to embedded hardware design for education and 3D printing services.",
-      "highlights": ["Developed in-house applications for the school from 2013 to 2015: SST Announcer (RSS feed viewer), Places@SST - (Bluetooth-based indoor navigation), SST Open House 2014 (Official school open house app), SST Lens (Simple photo editing application)",
-      "Developed the SPEEEduino, a modular IoT-enabled AVR+ESP8266 microcontroller platform for Singapore Polytechnic, which won a tender for 500 pieces in 2017",
-      "Developed the SSTuino (2018-2021) and SSTuino II (2022-present), an educational IoT-capable AVR+ESP32 microcontroller board targeting secondary schools, custom built for the School of Science and Technology, Singapore"]
+      "highlights": [
+        "Developed in-house applications for the school from 2013 to 2015: SST Announcer (RSS feed viewer), Places@SST - (Bluetooth-based indoor navigation), SST Open House 2014 (Official school open house app), SST Lens (Simple photo editing application)",
+        "Developed the SPEEEduino, a modular IoT-enabled AVR+ESP8266 microcontroller platform for Singapore Polytechnic, which won a tender for 500 pieces in 2017",
+        "Developed the SSTuino (2018-2021) and SSTuino II (2022-present), an educational IoT-capable AVR+ESP32 microcontroller board targeting secondary schools, custom built for the School of Science and Technology, Singapore"
+      ]
     },
     {
       "name": "Earth Observatory of Singapore",
@@ -41,7 +43,9 @@
       "startDate": "2018",
       "endDate": "2019",
       "summary": "Interned at the Earth Observatory of Singapore in NTU for 22 weeks.",
-      "highlights": ["Assisting in the consolidation and stabilization of the Microsoft Azure port of the Hybrid Science Data System (HySDS), working in collaboration with NASA’s Jet Propulsion Laboratory (JPL). HySDS is a highly scalable, hybrid cloud platform for scientific computation, with a particular focus on processing data from earth observation satellites."]
+      "highlights": [
+        "Assisting in the consolidation and stabilization of the Microsoft Azure port of the Hybrid Science Data System (HySDS), working in collaboration with NASA’s Jet Propulsion Laboratory (JPL). HySDS is a highly scalable, hybrid cloud platform for scientific computation, with a particular focus on processing data from earth observation satellites."
+      ]
     },
     {
       "name": "Satellite Research Center (Nanyang Technological University)",
@@ -50,7 +54,9 @@
       "startDate": "2018",
       "endDate": "2018",
       "summary": "Interned at the Satellite Research Centre (SaRC) in NTU for 6 weeks during the March-April semester break to gain a deeper understanding of micro/nanosatellite engineering.",
-      "highlights": ["Developed the ORBITAL, a cross-platform desktop application written in Java to help highlight anomalies in satellite orbital data of the VELOX-II nanosatellite."]
+      "highlights": [
+        "Developed the ORBITAL, a cross-platform desktop application written in Java to help highlight anomalies in satellite orbital data of the VELOX-II nanosatellite."
+      ]
     },
     {
       "name": "buUuk Pte. Ltd.",
@@ -59,11 +65,12 @@
       "startDate": "2016",
       "endDate": "2016",
       "summary": "",
-      "highlights": ["Interned at buUuk Pte. Ltd. for half a month in February of 2016 to gain more experience about professional mobile development companies in Singapore, and aided in the development of one of their client projects."]
+      "highlights": [
+        "Interned at buUuk Pte. Ltd. for half a month in February of 2016 to gain more experience about professional mobile development companies in Singapore, and aided in the development of one of their client projects."
+      ]
     }
   ],
-  "volunteer": [
-  ],
+  "volunteer": [],
   "education": [
     {
       "institution": "Singapore University of Technology and Design",
@@ -74,7 +81,11 @@
       "startDate": "2022-09-01",
       "endDate": "",
       "score": "10",
-      "courses": ["Computer Engineering specialisation, Double Minor in Computer Science and Digital Humanities", "GPA 4.18/5.0, SUTD Global Distinguished Scholarship Holder", "Expected Date of Graduation: April 2026"]
+      "courses": [
+        "Computer Engineering specialisation, Double Minor in Computer Science and Digital Humanities",
+        "GPA 4.18/5.0, SUTD Global Distinguished Scholarship Holder",
+        "Expected Date of Graduation: April 2026"
+      ]
     },
     {
       "institution": "Singapore Polytechnic",
@@ -85,11 +96,14 @@
       "startDate": "2016-01-01",
       "endDate": "2019-01-01",
       "score": "10",
-      "courses": ["Diploma in Computer Engineering (Silver Medalist)", "GPA 3.965/4.0, Director’s Honour Roll AY2016/17, AY2017/18", "Founding Vice President of SP Maker’s Club"]
+      "courses": [
+        "Diploma in Computer Engineering (Silver Medalist)",
+        "GPA 3.965/4.0, Director’s Honour Roll AY2016/17, AY2017/18",
+        "Founding Vice President of SP Maker’s Club"
+      ]
     }
   ],
-  "awards": [
-  ],
+  "awards": [],
   "certificates": [
     {
       "name": "AGI Systems Tool Kit Level 2",
@@ -106,8 +120,7 @@
       "icon": "fa-solid fa-satellite-dish"
     }
   ],
-  "publications": [
-  ],
+  "publications": [],
   "skills": [
     {
       "name": "Software Frameworks",
@@ -135,19 +148,13 @@
       "name": "Cloud Platforms",
       "level": "Master",
       "icon": "fa-solid fa-cloud",
-      "keywords": [
-        "Amazon Web Services, Microsoft Azure",
-        "Terraform (cloud orchestration)"
-      ]
+      "keywords": ["Amazon Web Services, Microsoft Azure", "Terraform (cloud orchestration)"]
     },
     {
       "name": "Computer Aided Design",
       "level": "Master",
       "icon": "fa-solid fa-compass-drafting",
-      "keywords": [
-        "Electronic: KiCad, Autodesk EAGLE",
-        "Mechanical: Autodesk Fusion 360"
-      ]
+      "keywords": ["Electronic: KiCad, Autodesk EAGLE", "Mechanical: Autodesk Fusion 360"]
     },
     {
       "name": "Programming Languages",
@@ -172,10 +179,8 @@
       "icon": ""
     }
   ],
-  "interests": [
-  ],
-  "references": [
-  ],
+  "interests": [],
+  "references": [],
   "projects": [
     {
       "name": "Quantum Computing",
