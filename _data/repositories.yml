@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - d3lta-v
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - FourierIndustries-LLP/SSTuino-II
+  - d3lta-v/AQILITY
+  - d3lta-v/ULWI
+  - EV-Club-SUTD/evam-1-canbus
+  - d3lta-v/WWDC-2014
