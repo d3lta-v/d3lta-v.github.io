@@ -8,9 +8,9 @@ category: academic
 related_publications: false
 ---
 
-The Mynah is an amateur solid-fueled fin-stabilized rocket developed by a group of students from 3 Singaporean universities: NTU, NUS and SUTD. 
+The Mynah is an amateur solid-fueled fin-stabilized rocket developed by a group of students from 3 Singaporean universities: NTU, NUS and SUTD.
 
-I was personally involved in 2023 after joining the SEDS (Students for the Exploration and Development of Space) chapter in SUTD, and joined the Avionics subgroup to work on the design, implementation and fabrication of the altimeter, parachute deployment and telemetry subsystems.  
+I was personally involved in 2023 after joining the SEDS (Students for the Exploration and Development of Space) chapter in SUTD, and joined the Avionics subgroup to work on the design, implementation and fabrication of the altimeter, parachute deployment and telemetry subsystems.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
