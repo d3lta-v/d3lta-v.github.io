@@ -2,7 +2,7 @@
 layout: page
 title: Airbus-SSTA HADR Challenge 2018
 description: Team Member
-img: assets/img/12.jpg
+img: assets/img/4_a_HADR/cover.jpeg
 importance: 4
 category: academic
 related_publications: false
