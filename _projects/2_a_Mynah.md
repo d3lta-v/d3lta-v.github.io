@@ -2,7 +2,7 @@
 layout: page
 title: Project Mynah
 description: Team Member - Avionics
-img: assets/img/2_a_Mynah/cover.jxl
+img: assets/img/2_a_Mynah/cover.jpg
 importance: 2
 category: academic
 related_publications: false
@@ -14,7 +14,7 @@ I was personally involved in 2023 after joining the SEDS (Students for the Explo
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2_a_Mynah/cover.jxl" title="The rocket at the competition!" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2_a_Mynah/cover.jpg" title="The rocket at the competition!" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
