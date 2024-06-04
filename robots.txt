@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://d3lta-v.github.io//sitemap.xml
+Sitemap: https://d3lta-v.github.io/sitemap.xml
