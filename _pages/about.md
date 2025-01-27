@@ -21,7 +21,7 @@ Hi there! I am Ziyue, an aspiring aerospace/embedded systems engineer and geospa
 
 ## Work
 
-My work experience includes a brief stint as an app developer when I just finished middle school, at buUuk Pte. Ltd, a Singaporean mobile app development firm. During my polytechnic education, I had the opportunity to intern at two research institutions at Nanyang Technological University, namely the Satellite Research Centre and Earth Observatory of Singapore, in which I developed software for space operations and cloud-based data science pipeline respectively.
+My work experience includes a brief stint as an app developer when I just finished middle school, at buUuk Pte. Ltd, a Singaporean mobile app development firm. During my polytechnic education, I had the opportunity to intern at two research institutions at Nanyang Technological University, namely the Satellite Research Centre and Earth Observatory of Singapore, in which I developed software for space operations and cloud-based data science pipeline respectively. In my Junior year in college, I interned at Equatorial Space Systems, Singapore's first rocket company to develop the avionics and flight software for a sounding rocket, and I am intending to commence my final year project with them to develop their next generation avionics platform in Fall 2025.
 
 ## Competencies
 
