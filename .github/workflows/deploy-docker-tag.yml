@@ -5,6 +5,8 @@ on:
     tags:
       - "v*"
     paths:
+      - ".github/workflows/deploy-docker-tag.yml"
+      - ".github/workflows/deploy-image.yml"
       - "bin/entry_point.sh"
       - "Dockerfile"
       - "Gemfile"
@@ -14,7 +16,7 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
 
     steps:
       - name: Checkout
