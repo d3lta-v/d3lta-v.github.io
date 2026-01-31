@@ -30,3 +30,5 @@ With the invaluable help of my mentors in both my middle school and polytechnic,
 Other than software, I have developed competencies in CAD electronic hardware design and layout during my middle school education. I further picked up embedded system programming such as on AVR microcontrollers. Creating a custom version of the Arduino: the SSTuino in Singapore Polytechnic and a multi-parameter COTS (commercial off-the-shelf) air quality sensor during middle school were 2 of the dozens of hardware projects I designed and fabricated.
 
 At my current college, I have further honed my skills in mechanical design and fabrication, and am qualified in FDM/SLA/Polyjet 3D printing, laser cutting, stick welding and small-scale CNC routers at my college's Fablab.
+
+> Recently received my namecard and want to know how to set it up? Click [here](https://github.com/d3lta-v/namecard)! 
