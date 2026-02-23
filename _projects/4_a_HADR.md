@@ -5,7 +5,7 @@ description: Team Member
 img: assets/img/4_a_HADR/cover.jpeg
 importance: 4
 category: academic
-redirect: https://www.space.org.sg/hadr-2018/
+redirect: https://web.archive.org/web/20210508154555/https://www.space.org.sg/hadr-2018/
 related_publications: false
 ---
 

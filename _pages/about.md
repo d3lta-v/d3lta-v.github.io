@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Junior year student at the <a href='https://www.sutd.edu.sg'>Singapore University of Technology and Design</a>
+subtitle: Senior year student at the <a href='https://www.sutd.edu.sg'>Singapore University of Technology and Design</a>
 
 profile:
   align: right
@@ -17,11 +17,11 @@ social: true # includes social icons at the bottom of the page
 
 ## About me
 
-Hi there! I am Ziyue, an aspiring aerospace/embedded systems engineer and geospatial data nerd with a computer engineering background. I am currently in my junior year of my Engineering and Product Development (Computer Engineering specialization) degree in SUTD and I love working on anything that has to do with embedded hardware, electronics, radio frequency and software.
+Hi there! I am Ziyue, an aspiring aerospace/embedded systems engineer and geospatial data nerd with a computer engineering background. I am currently in my senior year of my Engineering and Product Development (Computer Engineering specialization) degree in SUTD and I love working on anything that has to do with embedded hardware, electronics, radio frequency and software.
 
 ## Work
 
-My work experience includes a brief stint as an app developer when I just finished middle school, at buUuk Pte. Ltd, a Singaporean mobile app development firm. During my polytechnic education, I had the opportunity to intern at two research institutions at Nanyang Technological University, namely the Satellite Research Centre and Earth Observatory of Singapore, in which I developed software for space operations and cloud-based data science pipeline respectively. In my Junior year in college, I interned at Equatorial Space Systems, Singapore's first rocket company to develop the avionics and flight software for a sounding rocket, and I am intending to commence my final year project with them to develop their next generation avionics platform in Fall 2025.
+My work experience includes a brief stint as an app developer when I just finished middle school, at buUuk Pte. Ltd, a Singaporean mobile app development firm. During my polytechnic education, I had the opportunity to intern at two research institutions at Nanyang Technological University, namely the Satellite Research Centre and Earth Observatory of Singapore, in which I developed software for space operations and cloud-based data science pipeline respectively. In my Junior year in college, I interned at Equatorial Space Systems, Singapore's first rocket company to develop the avionics and flight software for a sounding rocket, and I am currently developing their next generation avionics platform as part of my final year project.
 
 ## Competencies
 

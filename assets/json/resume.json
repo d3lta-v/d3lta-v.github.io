@@ -151,7 +151,15 @@
       "icon": "fa-solid fa-satellite-dish"
     }
   ],
-  "publications": [],
+  "publications": [
+    {
+      "name": "Cryptographically Secure Random Number Generator utilizing Environmental Radiation implemented using FPGA Platform",
+      "publisher": "TENCON 2025 - 2025 IEEE Region 10 Conference (TENCON)",
+      "releaseDate": "2025",
+      "url": "https://www.techrxiv.org/users/917803/articles/1290402-cryptographically-secure-random-number-generator-utilizing-environmental-radiation-implemented-using-fpga-platform?commit=354694483cea4c8412d8f1aaf061df81b888d08f",
+      "summary": "Dedicated hardware can be prohibitively expensive to generate cryptographically secure random numbers. This paper elucidates the methodology for constructing a costeffective Cryptographically Secure Random Number Generator (CSRNG) on a Field-Programmable Gate Array (FPGA) with a Geiger counter. The frontend comprises a Geiger counter system that emits pulses in response to ambient radioactivity, supplemented by a neoTRNG-based ring oscillator RNG. The backend employs the BLAKE2s hash function to mitigate any potential bias the frontend introduces. This paper will offer insights into the conceptualization and implementation processes involved in creating the CSRNG and illuminate the challenges encountered throughout the endeavor."
+    }
+  ],
   "skills": [
     {
       "name": "Software Frameworks",
